@@ -1,0 +1,28 @@
+{
+  "name": "robvella",
+  "version": "1.0.0",
+  "description": "Rob Vella's terminal business card",
+  "main": "bin.js",
+  "bin": {
+    "robvella": "bin.js"
+  },
+  "scripts": {
+    "start": "node bin.js"
+  },
+  "keywords": [
+    "cli",
+    "business-card",
+    "npx",
+    "robvella"
+  ],
+  "author": "Rob Vella <me@robvella.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "boxen": "^5.1.2",
+    "open": "^8.4.2"
+  },
+  "engines": {
+    "node": ">=10"
+  }
+}
