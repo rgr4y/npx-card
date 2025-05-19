@@ -1,6 +1,6 @@
 {
   "name": "robvella",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Rob Vella's terminal business card",
   "main": "bin.js",
   "bin": {

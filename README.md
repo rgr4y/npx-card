@@ -2,6 +2,16 @@
 
 A stylish terminal-based business card that can be run via npx.
 
+## License
+
+MIT
+
+## Credits
+
+🔌 Inspired by [Ashley Willis' terminal business card](https://github.com/ashleymcnamara/ashley.dev-card)
+
+## Author business card that can be run via npx.
+
 ## Usage
 
 Run the following command in your terminal:
